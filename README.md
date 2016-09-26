@@ -4,14 +4,6 @@
 <img src="pics/dancingbear.gif">
 </p>
 
-# UDACITY - Machine Learning Engineer Nanodegree
-
-### Capstone Project: Build a stock price indicator
-
-**Project Overview**
-
-In this project,  I applied supervised learning techniques for predicting a stock price.
-
 
 ### Software and Library Requirements
 
@@ -26,7 +18,7 @@ This project requires the following software and libraries:
 
 ### Run
 
-Open the following file:  `015 - Udacity Capstone Project - Predicting stock prices 5 days later`
+Most of the ipynb (iPython notebook) files can be viewed from within github
 
 ### Datasets
 
