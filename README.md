@@ -1,10 +1,3 @@
-# In Progress...
-
-<p align="center">
-<img src="pics/dancingbear.gif">
-</p>
-
-
 ### Software and Library Requirements
 
 This project requires the following software and libraries:
