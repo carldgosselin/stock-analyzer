@@ -11,7 +11,9 @@ This project requires the following software and libraries:
 
 ### Run
 
-Most of the ipynb (iPython notebook) files can be viewed from within github
+Most of the ipynb (iPython notebook) files can be viewed from within github <br>
+At the command prompt: jupyter notebook <br>
+To execute blocks of code in jupyter notebook: shift + enter
 
 ### Datasets
 
